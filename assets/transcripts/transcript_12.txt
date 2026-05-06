@@ -1,0 +1,9 @@
+Transcript 12
+[00:00] Customer: I tried to redeem two gift cards on one order and the second one says "already used" but I only used it once. I also see a pending charge on my card that doesn't match the total.
+[00:18] Chatbot: I don't have integration access to the payment processor or gift-card ledger—I can only see your order total at a high level, not card-level redemption or duplicate charges.
+[00:32] Customer: I need to know if the charge is real before I dispute it with my bank.
+[00:38] Chatbot: A human agent with billing access can pull the redemption log. I can transfer you now—estimated wait about 12 minutes.
+[00:48] Customer: 12 minutes? No.
+[00:52] Chatbot: I can also email you a link to the self-service billing portal.
+[00:56] Customer: I'll figure it out myself. Bye.
+[01:00] Chatbot: Okay. Have a good day.

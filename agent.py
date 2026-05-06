@@ -1,70 +1,72 @@
-"""Minimal LangGraph-style agent: linear graph built via build_graph()."""
-
-import os
+"""LangGraph workflow: route transcript source, then analyze or load from DB."""
 
 from dotenv import load_dotenv
-from langchain.agents import create_agent
 from langchain_core.messages import HumanMessage
-from langchain_openai import ChatOpenAI
 from langgraph.graph import END, START, StateGraph
-from typing import TypedDict
+from uuid import uuid4
+
+from analyze_transcript import analyze_transcript
+from load_DB_analysis import load_DB_analysis
+from router import transcript_source_router
+from state.workflow_state import CustomerSupportProcess
 
 load_dotenv()
 
-_TEXT_AGENT = create_agent(
-    ChatOpenAI(model="gpt-4o-mini"),
-    tools=[],
-    system_prompt=(
-        "You are a helpful assistant that reads the user's text and responds "
-        "clearly and concisely."
-    ),
-)
 
-class AgentState(TypedDict, total=False):
-    """State flowing through the graph."""
-
-    input_text: str
-    normalized: str
-    output: str
+def check_transcript_source(state: dict) -> dict:
+    decision = transcript_source_router(state)
+    if decision == "analyze_transcript":
+        return {"transcript_source_choice": "run_new_analysis"}
+    return {"transcript_source_choice": "load_from_db"}
 
 
-def normalize(state: AgentState) -> dict[str, str]:
-    text = (state.get("input_text") or "").strip()
-    return {"normalized": text}
-
-
-def respond(state: AgentState) -> dict[str, str]:
-    body = state.get("normalized", "")
-    if not body:
-        return {"output": "(empty input)"}
-    result = _TEXT_AGENT.invoke(
-        {"messages": [HumanMessage(content=body)]},
-    )
-    last = result["messages"][-1]
-    out = last.content
-    if not isinstance(out, str):
-        out = str(out)
-    return {"output": out}
+def route_after_transcript_source_check(state: dict) -> str:
+    return str(state.get("transcript_source_choice", "run_new_analysis"))
 
 
 def build_graph():
-    workflow = StateGraph(AgentState)
-    workflow.add_node("normalize", normalize)
-    workflow.add_node("respond", respond)
-    workflow.add_edge(START, "normalize")
-    workflow.add_edge("normalize", "respond")
-    workflow.add_edge("respond", END)
-    return workflow.compile()
+    builder = StateGraph(CustomerSupportProcess)
+    builder.add_node("check_transcript_source", check_transcript_source)
+    builder.add_node("load_DB_analysis", load_DB_analysis)
+    builder.add_node("analyze_transcript", analyze_transcript)
+
+    builder.add_edge(START, "check_transcript_source")
+    builder.add_conditional_edges(
+        "check_transcript_source",
+        route_after_transcript_source_check,
+        {
+            "run_new_analysis": "analyze_transcript",
+            "load_from_db": "load_DB_analysis",
+        },
+    )
+
+    builder.add_edge("analyze_transcript", END)
+    builder.add_edge("load_DB_analysis", END)
+    return builder.compile()
 
 
 graph = build_graph()
 
 
 if __name__ == "__main__":
-    input_text = input("Enter your text: ")
-
-    result = graph.invoke({"input_text": input_text})
-    
-    print("-" * 100)
-    print(result.get("output"))
-    print("-" * 100)
+    message = [HumanMessage(content="Analyze the transcript and return the analysis.", role="user")]
+    transcripts = [
+        "transcript_01",
+        "transcript_02",
+        "transcript_03",
+        "transcript_04",
+        "transcript_05",
+        "transcript_06",
+        "transcript_07",
+        "transcript_08",
+        "transcript_09",
+        "transcript_10",
+        "transcript_11",
+        "transcript_12",
+        "transcript_13",
+        "transcript_14",
+    ]
+    response = graph.invoke(
+        {"messages": message, "transcripts": transcripts, "path_to_transcripts": "assets/transcripts/"},
+        config={"configurable": {"thread_id": f"run-{uuid4()}"}},
+    )

@@ -1,0 +1,12 @@
+Transcript 08
+[00:00] Customer: The website crashed while I was buying tickets and I don't know if my order went through.
+[00:08] Chatbot: I'm sorry that happened. Did you receive a confirmation email?
+[00:12] Customer: No, nothing. The page just errored out.
+[00:17] Chatbot: Can you check your bank or card statement for a pending or recent charge?
+[00:23] Customer: Yeah, I see a charge from you guys about five minutes ago.
+[00:28] Chatbot: I'm not able to look up bookings by payment alone. I'll connect you to an agent who can verify the booking and send you the confirmation.
+[00:38] Customer: Okay, thanks.
+[00:40] Chatbot: Transferring you now.
+[01:05] Human Agent: Hi, I've found the booking linked to that charge—two tickets for Saturday 3 PM. The confirmation email failed to send when the site had issues. I've resent it to the email on the account; you should get it shortly.
+[01:22] Customer: Got it, just came through. Thanks a lot.
+[01:26] Human Agent: You're welcome. Enjoy the show!

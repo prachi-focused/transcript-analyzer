@@ -1,0 +1,11 @@
+Transcript 04
+[00:00] Customer: I was charged twice for the same booking. I only wanted one set of tickets.
+[00:08] Chatbot: I'm sorry to hear that. Can you provide the email used for the purchase or your order number?
+[00:14] Customer: jane.doe@email.com. I don't have an order number, I just see two charges.
+[00:22] Chatbot: I'm searching for your booking.
+[00:26] Chatbot: I'm unable to verify duplicate charges from here. Would you like me to connect you to an agent who can review your payment history?
+[00:35] Customer: Yes please.
+[00:38] Chatbot: Transferring you now.
+[01:10] Human Agent: Hi, I've pulled up your account. I can confirm there were two charges for the same show. One will be automatically refunded within 3–5 business days. I've also flagged it so it's prioritized.
+[01:28] Customer: Okay, thanks for confirming.
+[01:32] Human Agent: You're welcome. Anything else?

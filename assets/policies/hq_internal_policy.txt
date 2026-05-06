@@ -1,0 +1,84 @@
+# HQ Internal Policy — Starlight Cinemas
+
+This document covers internal, back-office, and HQ-level rules. It is not customer-facing. Customer-facing refund rules are in refund_policy.txt; support workflow in customer_support_process.txt; FAQ content in website_faq.txt.
+
+---
+
+## 1. Standardization Across Theaters
+
+### 1.1 Refund and booking procedures
+
+- **All theaters** must follow the same refund and exchange rules as defined in refund_policy.txt. No location may offer more lenient or stricter refund timing (e.g., “refunds until showtime” or “no refunds at all”) without written HQ approval. Exceptions for specific promotions or events must be documented and communicated to support and box office.
+- **Booking and ticketing:** Reservations, seat selection, and payment flows must follow the same standards across the website, app, and in-theater systems. Changes to booking logic (e.g., hold times, payment retries) require HQ review so that support and refund policies remain consistent.
+
+### 1.2 Reporting and audit
+
+- Refunds, exchanges, and voucher issuance must be logged in the central system with order ID, reason code, amount, and agent/location. HQ uses this for audit, trend analysis, and dispute resolution. Do not process refunds or issue vouchers through channels that are not recorded in the standard system unless explicitly allowed (e.g., emergency workaround with a follow-up ticket).
+- Duplicate-charge cases must be flagged and resolved in line with refund_policy.txt; resolution and any compensation must be recorded for finance and compliance.
+
+---
+
+## 2. Membership and Loyalty (Starlight Rewards)
+
+### 2.1 Eligibility
+
+- **Membership passes and rewards** apply only to **eligible showings** as defined by HQ (e.g., standard 2D showings; exclusions may include certain premium formats, special events, or partner promotions). Support and box office must not apply membership benefits to excluded show types unless an override is documented (e.g., goodwill gesture approved by a supervisor).
+- **Tiers and benefits:** Fee waivers, free upgrades, and point accrual/redemption follow the current Rewards terms published by HQ. Agents must not promise benefits that are not in the current terms (e.g., “your tier gets free refills” when that is not in the program).
+
+### 2.2 Internal handling
+
+- Disputes about points, tier status, or missing benefits must be escalated to the Rewards team or HQ with the customer’s account ID and a short summary. Front-line agents must not manually add or remove points or change tier unless they have a documented tool and permission to do so.
+
+---
+
+## 3. Duplicate Charges and Financial Issues
+
+### 3.1 Priority and resolution
+
+- **Duplicate charges** must be **resolved immediately** once verified. No customer should be told to “wait for the next billing cycle” for a clear duplicate. Refunds or reversals must be processed per refund_policy.txt and logged. If the normal system cannot process the refund, the case must be escalated to HQ/finance with full transaction details.
+- **Overcharges or mischarges** (e.g., wrong amount, wrong card) are treated as high priority. Resolution follows refund_policy.txt and internal escalation paths; all actions must be recorded.
+
+### 3.2 What agents must not do
+
+- Do not promise resolution of duplicate charges without verifying the transactions (order IDs, amounts, timestamps). Do not issue goodwill refunds for “possible” duplicates without confirmation.
+- Do not bypass the standard refund or reversal process unless HQ has authorized an exception (e.g., system outage with a defined workaround).
+
+---
+
+## 4. Escalation to HQ
+
+### 4.1 When to escalate
+
+- **Policy exceptions:** Any request that would require deviating from refund_policy.txt (e.g., refund after showtime, refund of convenience fee, refund to a different card) must be escalated to HQ or the designated exception authority. Front-line agents must not approve such exceptions on their own.
+- **Complaints and compensation:** Complaints that may involve compensation beyond a standard refund (e.g., vouchers, free passes, account credit) or that involve legal, safety, or brand risk must be escalated with a clear summary and, where possible, ticket and order references.
+- **Technical and product issues:** Recurring or severe technical issues (e.g., app failures, payment gateway errors, wrong showtimes) must be reported through the defined channel so HQ can coordinate with product and IT.
+
+### 4.2 How to escalate
+
+- Use the standard ticket system and tag/label per HQ instructions (e.g., “Exception,” “Duplicate charge,” “Complaint”). Include: customer identifier (e.g., masked), order/booking ID, short description, and what has already been done. Do not include full payment details in escalation notes; reference “original payment method” or last four digits only where needed.
+
+---
+
+## 5. Internal dos and don’ts
+
+### 5.1 Do
+
+- **Do** follow refund_policy.txt and customer_support_process.txt for every customer-facing refund, exchange, or support action.
+- **Do** log all refunds, exchanges, and voucher issuance in the central system with correct reason codes.
+- **Do** treat duplicate-charge and overcharge cases as high priority and resolve them without delay once verified.
+- **Do** apply membership and rewards benefits only to eligible showings and per current Rewards terms.
+- **Do** escalate policy exceptions, compensation decisions, and serious complaints to HQ using the defined process and tags.
+- **Do** keep escalation notes concise and avoid storing full card numbers or unnecessary PII.
+
+### 5.2 Don’t
+
+- **Don’t** allow theaters or agents to apply refund or exchange rules that differ from refund_policy.txt without written HQ approval.
+- **Don’t** process refunds or issue vouchers through unlogged or nonstandard channels unless HQ has authorized an exception.
+- **Don’t** promise membership benefits or rewards that are not in the current program terms.
+- **Don’t** approve post-showtime refunds, convenience-fee refunds, or refunds to a different payment method without HQ or exception authority approval.
+- **Don’t** resolve duplicate-charge cases without verifying the transactions and logging the resolution.
+- **Don’t** include full payment details in escalation or ticket notes; use references and last-four only where necessary.
+
+---
+
+File scope: Internal and HQ procedures only. Refund rules → refund_policy.txt. Support process → customer_support_process.txt. FAQ content → website_faq.txt.

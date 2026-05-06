@@ -1,0 +1,8 @@
+Transcript 13
+[00:00] Customer: You auto-renewed my annual pass without a clear email and I want it canceled and refunded. Also I never got a receipt for the charge.
+[00:16] Chatbot: Subscription billing is handled by a separate system. I don't have access to cancel renewals or issue refunds from this chat—I can only describe the policy.
+[00:28] Customer: Then what are you for? I need this canceled today.
+[00:34] Chatbot: I can connect you to an agent who has billing permissions. Current wait is 8 minutes.
+[00:42] Customer: I'll post on social instead. This is useless.
+[00:48] Chatbot: I'm sorry for the frustration. If you'd like to hold, I can keep your place in line.
+[00:54] Customer: (no response)

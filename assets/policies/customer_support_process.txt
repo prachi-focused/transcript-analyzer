@@ -1,0 +1,66 @@
+# Customer Support Process — Starlight Cinemas
+
+This document defines the end-to-end support workflow, agent responsibilities, and mandatory dos and don'ts. It does not duplicate refund rules (see refund_policy.txt) or FAQ answers (see website_faq.txt).
+
+---
+
+## 1. Support Workflow Overview
+
+1.1 **First point of contact**
+   - The chatbot or support agent receives the customer’s initial message (e.g., from the website “Contact” or “Help” section, or in-app chat).
+   - The system may have already captured the order or booking reference if the user is logged in or provided a confirmation number.
+
+1.2 **Intent identification**
+   - The chatbot must ask the user which action they want: get invoice, resend email confirmation, check booking status, cancel booking, request refund, check refund status, exchange showtime, update account/payment method, report technical issue (e.g., app crash, failed payment), or “none of these.”
+   - Do not assume intent from a short message (e.g., “I want my money back” could mean refund, duplicate charge reversal, or voucher). Always confirm before acting.
+
+1.3 **Issue confirmation before resolution**
+   - Before taking any resolution step (refund, cancellation, resend email, etc.), the chatbot or agent must confirm that the issue is correctly understood (e.g., “Just to confirm: you’d like a refund for order #XXXX for the 7:00 PM showing on [date]. Is that correct?”).
+   - Do not proceed with refunds, cancellations, or exchanges until the customer has confirmed.
+
+1.4 **Escalation to a human agent**
+   - If the chatbot cannot resolve the issue (e.g., complex refund, duplicate charge, complaint about a specific location, or the user requests a person), the conversation must be escalated to a human support agent.
+   - The handoff must include: customer identifier (e.g., phone or email), booking/order reference, and a short summary of the issue and what has already been tried.
+
+1.5 **Human agent steps**
+   - Support agents must understand the full query and create or update a ticket in the internal system before or while resolving the issue.
+   - Support agents must verify booking details (order ID, showtime, theater, number of tickets) before issuing refunds, exchanges, or other changes. Refunds are made only to the original payment method (see refund_policy.txt).
+   - If a refund cannot be processed (e.g., payment method no longer valid, technical block), agents may offer a voucher. Vouchers are only available for pickup at the theater box office; do not promise voucher delivery by mail or email unless HQ policy explicitly allows it.
+   - Agents must verify the phone number (or other authenticated identifier) used for the booking before making any changes or disclosing booking details.
+
+1.6 **Authentication**
+   - Users must be authenticated before access to booking details, refunds, or account changes. Authentication is via the mobile number (or email) associated with the booking. Do not disclose or modify bookings without successful verification.
+
+1.7 **Long-running issues**
+   - If resolution will take longer than a few minutes (e.g., backend refund approval, IT check), support may offer the customer a callback once the issue is resolved instead of keeping them on chat/phone. Do not leave the customer without a clear next step or timeline when possible.
+
+1.8 **Closing the contact**
+   - Once the primary issue is resolved, the agent or chatbot must ask whether the customer has any other issues. Only then should the conversation be closed and the ticket updated accordingly.
+
+---
+
+## 2. Dos and Don’ts (Process and Behavior)
+
+### 2.1 Do
+
+- **Do** confirm the exact issue and intent (refund, cancel, exchange, etc.) before taking action.
+- **Do** verify booking details and authenticated identity before any refund, cancellation, or exchange.
+- **Do** create or update a support ticket for every human-handled case.
+- **Do** direct users to self-service (e.g., “My Tickets,” refund request link in confirmation email) when the request can be completed there, and point to website_faq.txt–type answers where applicable.
+- **Do** offer a callback option when resolution will be delayed.
+- **Do** ask if there are any other issues before closing the conversation.
+- **Do** follow refund_policy.txt for all refund- and exchange-related decisions; do not promise refunds or exchanges outside that policy.
+
+### 2.2 Don’t
+
+- **Don’t** assume customer intent from a single phrase; always confirm.
+- **Don’t** process refunds, cancellations, or exchanges without verifying the booking and the customer’s identity.
+- **Don’t** skip creating or updating a ticket for human-handled cases.
+- **Don’t** promise voucher delivery by mail or email unless explicitly allowed by HQ (see hq_internal_policy.txt).
+- **Don’t** disclose booking or payment details to unverified callers or chat users.
+- **Don’t** close the conversation without asking if the customer has any other issues.
+- **Don’t** contradict or override refund_policy.txt (e.g., promising refunds after showtime when policy does not allow it).
+
+---
+
+File scope: Support workflow, agent behavior, and process only. Refund rules → refund_policy.txt. FAQ content → website_faq.txt. Internal/HQ rules → hq_internal_policy.txt.

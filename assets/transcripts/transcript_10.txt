@@ -1,0 +1,9 @@
+Transcript 10
+[00:00] Customer: I used a promo code at checkout but it didn't apply. I was still charged full price.
+[00:08] Chatbot: Promo codes in our system apply only to weekday showings—Monday through Thursday. Was your showing on a weekday?
+[00:18] Customer: It was Friday night. The code said "valid on select shows" though, it didn't say weekdays only.
+[00:28] Chatbot: For Friday, Saturday, and Sunday, the code doesn't apply. That's likely why you saw full price at checkout.
+[00:36] Customer: That's pretty misleading. The email said "use at any show."
+[00:42] Chatbot: I understand the frustration. I can connect you to an agent if you'd like to request an exception or discuss further.
+[00:50] Customer: No, it's fine. I'll know for next time. Thanks.
+[00:54] Chatbot: You're welcome. Have a good day.

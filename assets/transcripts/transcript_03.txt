@@ -1,0 +1,11 @@
+Transcript 03
+[00:00] Customer: My membership pass says I should get a free ticket but the app charged me full price.
+[00:08] Chatbot: Let me check the membership benefits for you.
+[00:12] Chatbot: According to our FAQ, the pass applies to standard showings only. Was your showing standard?
+[00:20] Customer: Yes, it was a standard showing. Tuesday 2 PM.
+[00:26] Chatbot: I'm not able to see why the discount wasn't applied. I'll connect you to an agent who can look at your account.
+[00:34] Customer: Okay.
+[00:36] Chatbot: Transferring you now.
+[01:02] Human Agent: Hi, I'm looking at your membership and the transaction. I see the issue—the pass wasn't applied due to a system bug on our end. I've processed a refund for the ticket amount; it should appear in 3–5 business days.
+[01:22] Customer: Thank you, I appreciate you fixing that.
+[01:26] Human Agent: You're welcome. Sorry for the inconvenience.

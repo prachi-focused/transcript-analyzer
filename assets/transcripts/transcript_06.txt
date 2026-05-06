@@ -1,0 +1,9 @@
+Transcript 06
+[00:00] Customer: The seat I booked is already occupied. Someone is in my seat.
+[00:06] Chatbot: I'm sorry to hear that. Did you arrive after the show started?
+[00:11] Customer: No, I was right on time. Row E, seat 12.
+[00:17] Chatbot: I don't have access to reassign seats or contact the theater. For in-theater issues like this, please speak to theater staff at the concession or entrance—they can help with seat reassignment or a partial refund.
+[00:30] Customer: So you can't do anything from here?
+[00:34] Chatbot: I can connect you to an agent who may be able to issue a one-time credit after you've spoken with the theater, if needed.
+[00:42] Customer: I'll go find staff first. Thanks.
+[00:46] Chatbot: You're welcome. Sorry for the hassle.

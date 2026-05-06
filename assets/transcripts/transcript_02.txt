@@ -1,0 +1,13 @@
+Transcript 02
+[00:00] Customer: I accidentally booked the wrong showtime. Can I change it to the 9 PM showing instead?
+[00:06] Chatbot: I can help with that. Our policy allows changes up to 30 minutes before showtime. What is your booking ID?
+[00:12] Customer: 88342
+[00:15] Chatbot: Looking up your booking now.
+[00:18] Chatbot: Your showtime starts in 10 minutes. Changes are not allowed within 30 minutes of showtime. Would you like to request a refund?
+[00:28] Customer: That's really frustrating. I only just realized I had the wrong time.
+[00:34] Chatbot: I understand. I can connect you to a support agent to discuss options.
+[00:38] Customer: Yes please.
+[00:40] Chatbot: Transferring you now. Please hold.
+[01:15] Human Agent: Hi, thanks for holding. I've pulled up booking 88342. Unfortunately we can't issue refunds or changes after the showtime window unless there was a technical issue on our side. I can offer a one-time credit for a future show.
+[01:35] Customer: Fine, I'll take the credit. Not happy about this.
+[01:40] Human Agent: I've added the credit to your account. You'll see it in your email. Is there anything else?

@@ -1,0 +1,10 @@
+Transcript 07
+[00:00] Customer: Can I get a refund for tomorrow's 7 PM show? Something came up.
+[00:06] Chatbot: Refunds are allowed up to 1 hour before showtime. Can you provide your booking ID or the email used for the purchase?
+[00:14] Customer: 99210. Or the email is mike@example.com.
+[00:20] Chatbot: One moment while I look up your booking.
+[00:24] Chatbot: Your request is within the allowed window. I can process the refund now. Should I continue?
+[00:31] Customer: Yes please.
+[00:33] Chatbot: Your refund has been initiated. You'll receive a confirmation email and the amount should be back on your card in 5–7 business days.
+[00:42] Customer: Perfect, thank you.
+[00:45] Chatbot: You're welcome. Have a good day.

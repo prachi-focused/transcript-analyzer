@@ -1,0 +1,7 @@
+Transcript 05
+[00:00] Customer: Where can I find my tickets in the app? I just bought them.
+[00:06] Chatbot: Your tickets can be found under the "My Tickets" section in the app menu.
+[00:12] Customer: I'm in My Tickets but I still don't see them.
+[00:16] Chatbot: Please try pulling down to refresh the list, or log out and log back in. New purchases can take a moment to appear.
+[00:24] Customer: One sec—okay, refreshing worked. I see them now. Thanks.
+[00:30] Chatbot: Glad that worked. Enjoy the show!

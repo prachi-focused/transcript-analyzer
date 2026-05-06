@@ -1,0 +1,93 @@
+# Website FAQ — Starlight Cinemas
+
+This document contains the official FAQ content used on the Starlight Cinemas website and in-app Help section. Use it to answer customer questions directly and to decide when to direct users to self-service vs. when to escalate. Refund rules are in refund_policy.txt; support workflow is in customer_support_process.txt.
+
+---
+
+## 1. Tickets and Bookings
+
+**Q: Where can I find my tickets?**
+A: Your tickets are available in the “My Tickets” section of the Starlight Cinemas app and on the website under “My Account” → “My Tickets.” You can also open the confirmation email we sent at the time of purchase and use the “View tickets” link. For same-day visits, you can show your digital ticket (QR code) at the theater from the app or email.
+
+**Q: I didn’t receive my confirmation email. How do I get it again?**
+A: Log in to your account on our website or app, go to “My Tickets,” and select the booking. Use “Resend confirmation” to send the email again to the address on file. If the email still doesn’t arrive, check spam/junk and the correct email address in your account settings. If it’s still missing, contact support and we can resend it after verifying your identity.
+
+**Q: Can I change my showtime or movie after buying?**
+A: You can exchange your tickets for a different showtime or movie at the same theater. Exchanges are subject to availability and our exchange policy (see “Refunds and exchanges” on the website). You can start an exchange from “My Tickets” or at the box office. Price differences may apply.
+
+**Q: Why is there a fee when I buy tickets online?**
+A: We charge a small convenience fee per ticket for online and app purchases. This helps us maintain advance booking and seat selection. Convenience fees are non-refundable even if you later cancel or get a refund for the tickets. Starlight Rewards members may have fees reduced or waived depending on their tier; see the Rewards section of our website.
+
+---
+
+## 2. Refunds and Cancellations
+
+**Q: How do I request a refund?**
+A: Refunds must be requested before the printed showtime (see our Refund Policy on the website for exact cutoff, e.g., at least one hour before showtime). Use the “Request refund” link in your confirmation email, or go to “My Tickets” in the app or on the website and select the booking to start a refund request. Refunds are issued to the original payment method. For full rules (e.g., convenience fees, third-party purchases), see refund_policy.txt or the Refund Policy page on the site.
+
+**Q: I was charged twice. What do I do?**
+A: If you see a duplicate charge, contact support with your order number and the last four digits of the card used. We will verify and process a refund or reversal for the duplicate amount. Duplicate charge issues are prioritized and should be resolved as quickly as possible.
+
+---
+
+## 3. Promo Codes and Discounts
+
+**Q: Why didn’t my promo code work?**
+A: Promo codes may apply only to specific showtimes, days, formats (e.g., standard vs. IMAX), or theaters. Some codes exclude certain films or special events. Enter the code exactly as shown (including hyphens), and check that your showtime and theater are eligible. If it still doesn’t apply, the offer may have expired or reached its usage limit. Our support team can confirm eligibility for a specific code and booking.
+
+**Q: Can I combine a promo code with Starlight Rewards or other discounts?**
+A: Unless the offer explicitly says “combinable,” only one discount or promo can be applied per transaction. The system will apply the best single offer when multiple are entered. See the specific promo terms on the website or in the offer email.
+
+---
+
+## 4. Gift Cards and Rewards
+
+**Q: How do I check my gift card balance?**
+A: On the Starlight Cinemas website, go to “Gift Cards” and click “Check balance.” Enter the card number and PIN (if applicable). You can also check at the theater at the box office or concession register. Gift cards are valid at all Starlight Cinemas locations in the U.S. and on our website and app for tickets and concessions.
+
+**Q: Do gift cards expire?**
+A: Starlight gift card funds do not expire. Physical cards may have a printed date; after that date the card may not swipe, but the balance remains valid—use the number online or ask the box office to apply the balance manually. See our Gift Card Terms on the website for full details.
+
+**Q: How do I use my Starlight Rewards points?**
+A: Points can be redeemed for tickets, concessions, or other rewards as described in the Rewards section of the website and app. Eligibility may vary by theater and show type. Log in and go to “My Rewards” to see your balance and redemption options.
+
+---
+
+## 5. App and Website
+
+**Q: The app won’t load my tickets / I can’t log in.**
+A: Try closing and reopening the app, then ensure you have the latest version from the App Store or Google Play. If you’re logged in on the website, you can use “My Tickets” there instead. If the problem continues, contact support with your account email and a short description; we can help you access your booking and escalate technical issues if needed.
+
+**Q: How do I update my email, phone, or payment method?**
+A: Log in on the website or app and go to “My Account” (or “Account” / “Profile”). You can update your email, phone number, and saved payment methods there. Changes apply to future bookings; existing bookings keep the contact details from the time of purchase.
+
+---
+
+## 6. Theater Information
+
+**Q: What are your showtimes and where can I see them?**
+A: Showtimes are on the Starlight Cinemas website and app. Select your theater and date to see available showtimes and formats (e.g., standard, IMAX, Dolby). Showtimes are subject to change; we recommend checking again close to your visit.
+
+**Q: Is the theater accessible? Do you offer closed captioning or assistive devices?**
+A: Our theaters offer accessible seating and, where available, assistive listening and captioning devices. Details vary by location. On the website, select your theater and open “Theater info” or “Accessibility” for that location’s options and how to request equipment.
+
+---
+
+## 7. Policy for Using This FAQ (Dos and Don’ts)
+
+### 7.1 Do
+
+- **Do** use these answers verbatim or in close paraphrase when answering FAQ-type questions on the website, in chat, or in scripts.
+- **Do** direct customers to “My Tickets,” “Resend confirmation,” “Request refund,” and “Check balance” when their question is covered here and they can complete the action themselves.
+- **Do** point users to the relevant website page (e.g., Refund Policy, Gift Card Terms) when they ask for “full policy” or “terms.”
+- **Do** escalate to a human when the customer’s situation is not covered by the FAQ (e.g., dispute, duplicate charge, complaint about a specific theater) or when they insist on speaking to someone.
+
+### 7.2 Don’t
+
+- **Don’t** invent refund or exchange rules; stick to website_faq answers for FAQ and to refund_policy.txt for actual refund/exchange decisions.
+- **Don’t** give out or change account details (email, phone, payment) without proper authentication; direct users to “My Account” or verify identity per customer_support_process.txt.
+- **Don’t** reuse this file for internal-only procedures (e.g., how to process a refund in the backend); that belongs in refund_policy.txt and hq_internal_policy.txt.
+
+---
+
+File scope: Public FAQ content and when to use it. Refund rules → refund_policy.txt. Support process → customer_support_process.txt. Internal/HQ procedures → hq_internal_policy.txt.

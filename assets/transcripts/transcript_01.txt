@@ -1,0 +1,17 @@
+Transcript 01
+[00:00] Customer: Hi, I bought tickets for tonight's 7 PM show but I never received the confirmation email. I checked spam too.
+[00:08] Chatbot: I can help with that. Could you provide the email address used for the purchase?
+[00:12] Customer: abc@example.com
+[00:15] Chatbot: Searching for your booking now.
+[00:18] Chatbot: I cannot find a booking with that email in our system. Could you double-check the email or provide your order number?
+[00:25] Customer: I don't have an order number—I just have the charge on my card. The email never came through.
+[00:32] Chatbot: I'm unable to look up bookings by card details. Would you like me to connect you to a human agent who can assist further?
+[00:38] Customer: Yes please.
+[00:40] Chatbot: Transferring you now. Please hold.
+[02:05] Human Agent: Hi, thanks for waiting. Can I get your name and the email you used for the purchase?
+[02:12] Customer: It's Sarah, and abc@example.com.
+[02:18] Human Agent: Thanks, Sarah. One moment while I pull up your account.
+[05:35] Human Agent: I see your payment went through for tonight's 7 PM show, but the confirmation email failed to send from our side. I'm resending it now—you should get it at abc@example.com within a minute.
+[05:48] Customer: I have not received it yet.
+[05:52] Human Agent: Email will arrive soon. Please wait for some time. If you still do not receive it, please contact support again and we can help you.
+[05:59] Customer: Ok.

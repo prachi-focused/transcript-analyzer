@@ -1,0 +1,9 @@
+Transcript 11
+[00:00] Customer: My rewards points from last month never showed up on my account. I also need to know if I can use points toward a premium IMAX ticket.
+[00:14] Chatbot: I can see your account is linked, but I don't have access to the loyalty backend to adjust or audit point balances—that only shows in the agent tool.
+[00:26] Customer: So you can't even tell me if the points posted?
+[00:30] Chatbot: I can confirm you're enrolled in Rewards tier Gold, but I cannot view transaction-level point history from here. I can queue you for an agent or you can call the loyalty line.
+[00:44] Customer: I don't have time for a call queue. This is ridiculous.
+[00:50] Chatbot: I understand. Would you like me to open a ticket with your email and a short note about the missing points?
+[00:58] Customer: Forget it.
+[01:01] Chatbot: I'm sorry I couldn't resolve this in chat. If you change your mind, we're here.

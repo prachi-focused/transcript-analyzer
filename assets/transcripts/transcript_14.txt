@@ -1,0 +1,7 @@
+Transcript 14
+[00:00] Customer: I'm booking 8 tickets for a school trip and we need two wheelchair-accessible spots in the same row. The app won't let me pick those seats together.
+[00:14] Chatbot: Group bookings and accessible seating holds are managed in a different system. I don't have access to modify seat maps or hold ADA blocks for large parties.
+[00:26] Customer: Can you at least tell me if those seats exist in that theater?
+[00:30] Chatbot: I can see general availability, but not whether wheelchair spaces are paired in the row you want—that requires the box office or group sales.
+[00:42] Customer: I'll go to the box office in person then. Thanks for nothing.
+[00:48] Chatbot: I'm sorry I couldn't complete this in chat. Box office hours are on our site.

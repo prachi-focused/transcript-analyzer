@@ -1,0 +1,12 @@
+Transcript 09
+[00:00] Customer: I want to cancel my subscription pass. I'm not using it anymore.
+[00:06] Chatbot: You can cancel your pass under Account > Subscription in the app or on the website.
+[00:14] Customer: I've looked there. I don't see any cancel option, only "Manage."
+[00:20] Chatbot: Under "Manage" there should be a cancellation link. Can you confirm you're in the right section?
+[00:28] Customer: I only see "Update payment" and "Change plan." No cancel.
+[00:34] Chatbot: I'll connect you to an agent who can cancel the subscription for you.
+[00:38] Customer: Yes please.
+[00:40] Chatbot: Transferring you now.
+[01:00] Human Agent: Hi, I've located your subscription. I've canceled it effective immediately. You'll keep access until the end of the current billing period, then it won't renew.
+[01:15] Customer: That's what I wanted. Thank you.
+[01:18] Human Agent: You're welcome. Anything else?

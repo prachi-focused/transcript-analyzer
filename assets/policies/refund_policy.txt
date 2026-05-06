@@ -1,0 +1,92 @@
+# Refund Policy — Starlight Cinemas
+
+This document defines refund and exchange rules only. It is the single source of truth for what agents and systems may do regarding refunds and exchanges. Support workflow is in customer_support_process.txt; FAQ wording is in website_faq.txt; internal/HQ procedures are in hq_internal_policy.txt.
+
+---
+
+## 1. Eligibility and Timing
+
+### 1.1 When refunds are allowed
+
+- **Before showtime:** Customers may request a refund up to **one (1) hour before the printed showtime** for tickets purchased on the Starlight Cinemas website or app. Refunds are not guaranteed after this cutoff.
+- **After showtime:** Refunds after the printed showtime are **not permitted** except in the following cases:
+  - **Technical failure:** The showing was cancelled, delayed beyond a reasonable time, or the customer could not be admitted due to a verified technical or theater-side failure (e.g., projector failure, no seating available due to overbooking).
+  - **Duplicate charge:** The customer was charged more than once for the same transaction; the duplicate amount must be refunded or reversed regardless of showtime.
+  - **Other exceptions:** Only if explicitly approved by HQ or under a written exception (e.g., documented complaint resolution). Agents must not promise post-showtime refunds unless such approval exists.
+
+### 1.2 Exchanges (showtime or movie change)
+
+- Exchanges for a different showtime or movie at the same theater are allowed subject to availability and the same timing rule: requested at least one (1) hour before the **original** printed showtime.
+- Any price difference is charged to or refunded to the customer as applicable. Exchanges to a lower-priced show may result in a partial refund to the original payment method; the remainder may be issued as a voucher or account credit per theater/HQ rules.
+- Exchanges are not allowed after the original showtime except for theater-side cancellations or technical failures, in which case the customer may be offered a new showtime or a refund.
+
+---
+
+## 2. What is refundable and what is not
+
+### 2.1 Refundable
+
+- **Ticket face value** for eligible requests (within the timing and exception rules above).
+- **Concession or food & beverage** purchased in advance online or in the app, if the refund is requested before the printed showtime. After showtime, F&B is generally non-refundable unless the showing was cancelled or the customer was unable to attend due to a verified theater-side issue.
+- **Duplicate charges:** The duplicate amount only, refunded or reversed as soon as verified.
+
+### 2.2 Non-refundable
+
+- **Convenience fees:** Fees charged for online or app ticket purchases are **non-refundable** even when the ticket itself is refunded. Do not promise refund of convenience fees unless HQ has published an exception.
+- **Gift card–purchased tickets:** Tickets bought entirely with a Starlight gift card are **non-refundable** to a credit card; any refund or exchange value is issued back to a gift card or as a voucher/credit per HQ rules. Do not refund to a card when the original payment was gift card only.
+- **Third-party purchases:** Tickets bought through third-party agencies (e.g., Fandango, Groupon, other resellers) must **not** be refunded or exchanged through Starlight systems. The customer must contact the third party for refunds and exchanges. Agents should clearly state this and, if possible, provide the third party’s contact or help link.
+
+---
+
+## 3. Method and timing of refund
+
+### 3.1 Refund destination
+
+- Refunds must be issued to **the original payment method** used for the purchase (same credit/debit card, same gift card, same wallet, etc.). Do not refund to a different card or to cash unless HQ policy or law explicitly requires it (e.g., certain jurisdictions for gift cards).
+- For gift-card-only purchases, refund value goes back to a gift card or to a voucher/credit as per hq_internal_policy.txt; do not invent alternate methods.
+
+### 3.2 Processing time
+
+- Refund processing typically takes **3–5 business days** for card refunds. The customer may see the credit later depending on their bank. Agents should state this range and not promise a specific day.
+- Duplicate-charge reversals may be processed with higher priority; timing should still be stated as “as soon as possible” or “typically within 3–5 business days” unless HQ specifies otherwise.
+
+---
+
+## 4. Vouchers and readmission
+
+### 4.1 When vouchers may be offered
+
+- When a refund to the original payment method cannot be completed (e.g., card expired, issuer decline, gift-card-only purchase), agents may offer a **theater voucher** or **readmission pass** where allowed by HQ. Vouchers are typically **only available for pickup at the theater box office**; do not promise voucher delivery by mail or email unless HQ has explicitly authorized it.
+- For cancelled or failed showings, the theater may issue readmission passes or refunds per this policy and hq_internal_policy.txt.
+
+### 4.2 What agents must not do
+
+- Do not promise cash refunds unless required by law or by written HQ exception.
+- Do not issue refunds to a different payment method than the one used for the original purchase without explicit policy or HQ approval.
+
+---
+
+## 5. Agent dos and don’ts (refund-specific)
+
+### 5.1 Do
+
+- **Do** verify the booking (order ID, showtime, theater, number of tickets) and customer identity before processing any refund or exchange (see customer_support_process.txt).
+- **Do** check that the request is within the allowed time window (e.g., at least one hour before showtime) before approving a refund.
+- **Do** refund only to the original payment method unless policy or HQ allows otherwise.
+- **Do** treat duplicate-charge cases as high priority and resolve them without requiring the customer to wait for normal refund timing when possible.
+- **Do** direct third-party purchasers to the third party; do not process refunds or exchanges for those tickets in Starlight systems.
+- **Do** inform customers that convenience fees are non-refundable and that refunds typically take 3–5 business days.
+- **Do** offer a voucher (box office pickup only, unless HQ says otherwise) when a card refund is not possible and the customer is otherwise eligible.
+
+### 5.2 Don’t
+
+- **Don’t** promise or process refunds after the printed showtime except for technical failure, duplicate charge, or documented HQ exception.
+- **Don’t** refund convenience fees unless an explicit HQ exception exists.
+- **Don’t** refund third-party purchases through Starlight; don’t promise refunds for gift-card-only tickets to a credit card.
+- **Don’t** issue refunds to a different payment method than the one used for the purchase without policy or HQ approval.
+- **Don’t** promise voucher delivery by mail or email unless HQ has authorized it.
+- **Don’t** skip verification of booking and customer identity before any refund or exchange.
+
+---
+
+File scope: Refund and exchange rules only. Process and behavior → customer_support_process.txt. FAQ answers → website_faq.txt. Internal/HQ procedures → hq_internal_policy.txt.
