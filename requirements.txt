@@ -1,0 +1,11 @@
+langgraph
+langgraph-cli[inmem]
+langsmith
+langchain
+langchain-openai
+langchain-core
+langchain-text-splitters
+psycopg2-binary
+python-dotenv
+python-docx
+ipython
